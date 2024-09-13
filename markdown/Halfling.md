@@ -2,4 +2,4 @@
 
 Halflings are x
 
-* [Back to Races](Races.md)
+* [Back to Races](#/Races)
